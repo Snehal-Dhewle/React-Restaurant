@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Restaurant/static/css/main.17655c3c.css",
+    "main.js": "/React-Restaurant/static/js/main.06612ede.js",
+    "index.html": "/React-Restaurant/index.html",
+    "main.17655c3c.css.map": "/React-Restaurant/static/css/main.17655c3c.css.map",
+    "main.06612ede.js.map": "/React-Restaurant/static/js/main.06612ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.06612ede.js"
+  ]
+}
